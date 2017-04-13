@@ -14,8 +14,8 @@ public class Do_While_Loop_Practice {
 		} while (x < 10);
 		
 	}
-// check something
 	
+	// Another change
 	public static void second(String[] args) {
 		
 		int y;
@@ -25,6 +25,10 @@ public class Do_While_Loop_Practice {
 		y++;
 		
 		} while (y < 18);
+		
+	}
+	
+	public void check(){
 		
 	}
 }
